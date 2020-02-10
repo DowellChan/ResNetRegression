@@ -1,6 +1,9 @@
 """
 ResNet model for regression of Keras.
-Optimal model for the paper.
+Optimal model for the paper
+
+"Chen, D.; Hu, F.; Nian, G.; Yang, T. Deep Residual Learning for Nonlinear Regression. Entropy 2020, 22, 193."
+
 Depth:28
 Width:16
 """
