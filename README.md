@@ -1,5 +1,5 @@
 # ResNetRegression
-Optimal deep residual regression model is built for nonliear regression. Details could be found at [ResNetRegression](https://doi.org/10.3390/e22020193). 
+An optimal deep residual regression model is built for nonlinear regression. Details could be found at [Deep Residual Learning for Nonlinear Regression](https://doi.org/10.3390/e22020193). 
 
 ## Code
 The Python code is provided on this GitHub page. 
