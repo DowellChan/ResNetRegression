@@ -17,4 +17,5 @@ Entropy 2020, 22, 193.
 ```
 ## Contact  
 Dongwei Chen (dongwei.chen@colostate.edu)
+
 Tiantian Yang (tyang@uidaho.edu) 
