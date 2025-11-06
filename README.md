@@ -15,3 +15,6 @@ Dongwei Chen, Fei Hu, Guokui Nian, Tiantian Yang.
 "Deep Residual Learning for Nonlinear Regression."
 Entropy 2020, 22, 193.
 ```
+## Contact  
+Dongwei Chen (dongwei.chen@colostate.edu)
+Tiantian Yang (tyang@uidaho.edu) 
